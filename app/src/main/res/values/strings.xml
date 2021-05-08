@@ -1,0 +1,109 @@
+<resources>
+    <string name="modules">Spinner Exsample</string>
+
+    <string-array name="modules">
+        <item>Choose module</item>
+        <item>ITP</item>
+        <item>MAD</item>
+        <item>PS</item>
+        <item>DSA</item>
+    </string-array>
+
+
+    <string name="app_name">EduHelper</string>
+    <string name="editProfileDetails">Edit Profile Details</string>
+    <string name="announcements">Announcements</string>
+    <string name="timeTables">Time Tables</string>
+    <string name="pastPapers">Past Papers</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">Welcome !</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signin">Sign In</string>
+    <string name="goToRegister">No Account? Register.</string>
+    <string name="idNumber">ID Number</string>
+    <string name="name">Name</string>
+    <string name="faculty">Faculty</string>
+    <string name="year">Year</string>
+    <string name="submit">Submit</string>
+    <string name="register">Register</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="goToLogin">Already Have An Account? Login.</string>
+    <string name="profile">Profile</string>
+    <string name="edit">Edit</string>
+    <string name="ttl">NEW ANNOUNCEMENT</string>
+    <string name="title">Title</string>
+    <string name="text_title" translatable="false">Enter your title</string>
+    <string name="text_fac" translatable="false">Faculty</string>
+    <string name="txt_yr" translatable="false">Year</string>
+    <string name="des" translatable="false">Description</string>
+    <string name="browse_btn">Browse</string>
+    <string name="txt_des">Type your description..</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_save">Save</string>
+    <string name="addtimetable">Add Timetable</string>
+    <string name="semester">Semester</string>
+    <string name="group">Group</string>
+    <string name="attachments">Attachments</string>
+    <string name="enterfaculty">Enter Faculty</string>
+    <string name="enteryear">Enter Year</string>
+    <string name="entersemester">Enter Semester</string>
+    <string name="entergroup">Enter Group</string>
+    <string name="visibleToStudents">"Visible to students   "</string>
+    <string name="editTimetable">Edit Timetable</string>
+    <string name="btn_saveChanges">Save changes</string>
+    <string name="addEvent">Add Event</string>
+    <string name="topic">Topic</string>
+    <string name="date">Date</string>
+    <string name="venue">Venue</string>
+    <string name="ttl_ann">ANNOUNCEMENTS</string>
+    <string name="moduleCode">Module Code</string>
+    <string name="btn_insertpaper">Insert Paper</string>
+    <string name="btn_EditPaper">Edit Paper</string>
+    <string name="head_insert_past_papers">Insert past papers</string>
+    <string name="exam">Exam</string>
+    <string name="ChooseFile">Choose File</string>
+    <string name="Edit_past_paper">Edit past paper</string>
+    <string name="view_past_paper_heading" />
+    <string name="view_past_paper">VIEW PAST PAPER</string>
+    <string name="download">DOWNLOAD</string>
+    <string name="forgotPassword">Forgot Password</string>
+    <string name="ttl_edit">EDIT ANNOUNCEMENT</string>
+    <string name="attach">Attach your files..</string>
+    <string name="goTOHome">Home</string>
+    <string name="module_name">Module Name</string>
+    <string name="mid_marks">MID Marks</string>
+    <string name="assignment_marks">Assignment Marks</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="lecturers">Lecturers</string>
+    <string name="addLecturer">Add Lecturer</string>
+    <string name="location">Location</string>
+    <string name="contact_Number">Contact Number</string>
+    <string name="chooseImage">Choose Image</string>
+    <string name="insertLecturer">Insert Lecturer</string>
+    <string name="confim">CONFIRM</string>
+    <string name="btn_confirm">Confirm</string>
+    <string name="upload">FILE UPLOAD</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="insert_ann">Insert Announcement</string>
+    <string name="btn_inserttimmetable">Insert Timetable</string>
+    <string name="anntit">ADD ANNOUNCEMENT</string>
+    <string name="cal_gpa">Calculate GPA</string>
+    <string name="module1">Module 01</string>
+    <string name="credit_points">Points for Grade</string>
+    <string name="credithours">Credit Hours</string>
+    <string name="module2">Module 02</string>
+    <string name="module3">Module 03</string>
+    <string name="module4">Module 04</string>
+    <string name="totCreditHours">Total Credit Hours</string>
+    <string name="totWeightedGrade">Total Weighted Grade Point</string>
+    <string name="gpa">Your GPA</string>
+    <string name="downloadpdf">Download PDF</string>
+    <string name="cal_text">You need to below amount of marks to pass the module </string>
+    <string name="goToCalcGpa"><![CDATA[Need Calculate your GPA? --->]]></string>
+    <string name="semester_fees">Input semester fees</string>
+    <string name="Current_year">Current Year</string>
+    <string name="TotalPayment">Total Payment For the course</string>
+    <string name="currentSem">Current semester</string>
+</resources>
