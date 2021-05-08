@@ -157,7 +157,6 @@
                 android:background="@drawable/custom_button3"
                 android:text="@string/insertLecturer" />
 
-
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>
