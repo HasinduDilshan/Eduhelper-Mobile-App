@@ -28,7 +28,7 @@ public class PastpaperHelper {
     public void setYear(String year) {
         this.year = year;
     }
-
+ 
     public String getFaculty() {
         return faculty;
     }
