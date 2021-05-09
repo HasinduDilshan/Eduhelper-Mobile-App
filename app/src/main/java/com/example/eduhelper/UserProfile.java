@@ -1,12 +1,9 @@
 package com.example.eduhelper;
-
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.TextView;
-
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
-
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.firestore.DocumentReference;
 import com.google.firebase.firestore.DocumentSnapshot;
@@ -47,7 +44,6 @@ public class UserProfile extends AppCompatActivity {
                 pFaculty.setText(documentSnapshot.getString("faculty"));
             }
         });
-
 
     }
 }
