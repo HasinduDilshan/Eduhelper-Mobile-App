@@ -82,8 +82,6 @@ public class Add_Lecturers extends AppCompatActivity {
 
                 //uploadDataToFirebase();
             }
-
         });
-
     }
 }
