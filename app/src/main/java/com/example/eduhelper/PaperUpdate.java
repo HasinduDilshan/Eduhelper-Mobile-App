@@ -48,7 +48,6 @@ public class PaperUpdate extends AppCompatActivity {
         up_exam.setText(exam);
 
 
-
         updatebtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
